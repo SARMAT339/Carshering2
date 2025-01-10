@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\bin\Debug\Carshering2.exe.config
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\bin\Debug\Carshering2.exe
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\bin\Debug\Carshering2.pdb
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.FormCatalog.resources
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.exe
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.pdb
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.FormTime.resources
+C:\Users\ADMIN\source\repos\Carshering2\Carshering2\obj\Debug\Carshering2.FormRegistration.resources

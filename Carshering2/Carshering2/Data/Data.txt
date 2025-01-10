@@ -1,0 +1,8 @@
+﻿Эконом
+Lada-granta:механика:а398вв:7
+Внедорожник
+Jeep Grand Cherokee:механика:к923от:18
+Jeep Wrangler:механика, откидная крыша:с075оа:25
+Премиум
+Mercedes-Benz C-class:автомат:с001оа:30
+Lamborghini Urus:автомат:с002оа:42
